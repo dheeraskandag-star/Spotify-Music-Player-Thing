@@ -1,4 +1,4 @@
-# Spotify-Music-Player-Thing
+# Spotify-Music-Player-Thingy
 
 It is a music palyer which uses spotify's api to control song playback. 
 
