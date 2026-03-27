@@ -1,2 +1,3 @@
 # Spotify-Music-Player-Thing
-music player
+
+It is a music palyer which uses spotify's api to control song playback. 
