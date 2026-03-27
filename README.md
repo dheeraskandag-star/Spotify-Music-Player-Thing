@@ -11,8 +11,8 @@ I am going to be making this on a prototyping board.
 
 Before we start, we would have to install these libraries:
 
-https://github.com/FinianLandes/SpotifyEsp32
-Adafruit_ST7735
+https://github.com/FinianLandes/SpotifyEsp32,
+Adafruit_ST7735,
 Adafruit_GFX
 
 i Have reffered https://github.com/Dongathan-Jong/SpotifyDisplay.git for my project.
